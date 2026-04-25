@@ -1,0 +1,33 @@
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+backend/README.md
+
+backend/To-Do.md
+
+# Django
+db.sqlite3
+media/
+
+# Node
+frontend/node_modules/
+frontend/build/
+
+# Env files
+.env
+*.env
+
+# OS
+.DS_Store
+
+# Redis dump
+dump.rdb
+
+DEPLOYMENT.md
+
+SETUP.md
